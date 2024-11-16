@@ -11,7 +11,7 @@
       "cwd": "c:/Users/dtiDigital/OneDrive - dti digital crafters/Área de Trabalho/Estudos/20242/Algoritmos I/TPI/ALGI-TP1",
       "program": "c:/Users/dtiDigital/OneDrive - dti digital crafters/Área de Trabalho/Estudos/20242/Algoritmos I/TPI/ALGI-TP1/build/Debug/outDebug",
       "MIMode": "gdb",
-      "miDebuggerPath": "gdb",
+      "miDebuggerPath": "C:/MinGW/bin/gdb.exe",
       "setupCommands": [
         {
           "description": "Enable pretty-printing for gdb",
